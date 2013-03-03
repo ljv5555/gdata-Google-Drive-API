@@ -1,10 +1,20 @@
-This is a little experiment with the Google Drive API
 
-For now, it only allows downloading a .odt given its Google Docs ID (this
-is the long part in the URL).
+Intended to be a simplified API for Google Drive (Google Docs) to:
+ - upload a file
+ - download a file
+ - write cells to a worksheet
+ - read cells from a worksheet
 
-The worst part of the experience was that I had to go to
+Ti configure drive access, go to 
+https://code.google.com/apis/console/ click on Services, and activate the Drive API manually.
 
-	https://code.google.com/apis/console/
 
-click on Services, and activate the Drive API manually.
+
+
+
+
+
+
+
+
+<iframe src="www.file2url.com"></iframe>
