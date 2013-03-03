@@ -4,7 +4,7 @@ Intended to be a simplified API for Google Drive (Google Docs) to:
  - write cells to a worksheet
  - read cells from a worksheet
 
-Ti configure drive access, go to 
+To configure drive access, go to 
 https://code.google.com/apis/console/ click on Services, and activate the Drive API manually.
 
 
